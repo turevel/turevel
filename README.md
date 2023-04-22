@@ -26,7 +26,7 @@ Eu sou o Léo, natural de uma pequena cidade no interior do Rio Grande do Norte,
   <br />
   <img src="https://img.shields.io/badge/-GIT-d35400?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-GITHUB-2c3e50?style=for-the-badge&logo=github&logoColor=white" />
-  <br />
+
   <img src="https://img.shields.io/badge/-HTML5-d84923?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS-166fb1?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-JAVASCRIPT-ead41c?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -35,7 +35,7 @@ Eu sou o Léo, natural de uma pequena cidade no interior do Rio Grande do Norte,
   <img src="https://img.shields.io/badge/-REACT TESTING LIBRARY-d7302f?style=for-the-badge&logo=testinglibrary&logoColor=white" />
   <img src="https://img.shields.io/badge/-REDUX-7046b2?style=for-the-badge&logo=axios&logoColor=white" />
   <img src="https://img.shields.io/badge/-AXIOS-671ddf?style=for-the-badge&logo=axios&logoColor=white" />
-  <br />
+
   <img src="https://img.shields.io/badge/-TYPESCRIPT-0074c2?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-EXPRESS-2f2f2f?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/-JSON WEB TOKEN-ee0156?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
@@ -44,6 +44,12 @@ Eu sou o Léo, natural de uma pequena cidade no interior do Rio Grande do Norte,
   <img src="https://img.shields.io/badge/-MONGODB-4aa73c?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-DOCKER-228ee1?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-NODEJS-79b33e?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PYTHON-3e7aa9?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NODEMON-73ca48?style=for-the-badge&logo=nodemon&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CHAI-85000f?style=for-the-badge&logo=chai&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/-MARKDOWN-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VSCODE-197dbe?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <br /><br /><br />
 </div>
 
