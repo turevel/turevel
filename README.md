@@ -1,4 +1,4 @@
-# Olá, seja bem-vindo ao meu Github!
+# Olá, seja bem-vindo(a) ao meu Github!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/turevel)
 [![LinkedIn](https://img.shields.io/badge/-Outlook-127CD6?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:turevel@outlook.com)
